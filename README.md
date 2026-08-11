@@ -1,2 +1,2 @@
 # gh-actions-course
-Repository for GitHub actions
+Repository for GitHub actions course.
